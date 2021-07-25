@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.container-slide{
+    background: #FEEAE9;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+.subscribe{
+    background: #FFF2F1;
+
+}
